@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 👯 I’m looking for Junior - Frontend / Full-Stack Postions
 
-Keep Learning.
-
 Connect with me:
 https://www.linkedin.com/in/ziv-bryk-887463a8/
 
 Languages and Tools:
 angular canvasjs chartjs css3 git heroku html5 javascript mongodb mysql nodejs react redux sass typescript vuejs
+
+Keep Learning 🐱‍👤
