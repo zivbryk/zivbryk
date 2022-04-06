@@ -1,4 +1,4 @@
-### Hi, I'm Ziv Bryk 👋
+# Hi, I'm Ziv Bryk 👋
 
 <!--
 **zivbryk/zivbryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
