@@ -19,3 +19,13 @@ I am a Frontend / Full-Stack Web Developer with experience in writing single pag
 I recently completed the Coding Academy Bootcamp, and looking for Junior position.
 
 You can view my capabilities here https://zivbryk.github.io/mister-bitcoin-angular/ - a crypto wallet app made using the Angular CLI, link to repo: github.com/onTrackit (Angular.js, Typescript, Scss).
+
+Formerly a Mechanical R&D Engineer working on prject involving aeronautics.
+Holds a B.Sc. in Mechanical Engineering (Technion institue of technology) .
+🔭 My Latest Project - a Trello Clone Progressive Web App! 
+
+🌱 Technologies I've learned and worled with: React, Vue, Angular, TypeScript, Node.js, Redux, WebSockets, MongoDB, Responsive Scss.
+
+👯 I’m looking for Junior - Frontend / Full-Stack Postions
+
+Keep Learning.
