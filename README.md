@@ -30,3 +30,9 @@ Holds a B.Sc. in Mechanical Engineering (Technion institue of technology).
 👯 I’m looking for Junior - Frontend / Full-Stack Postions
 
 Keep Learning.
+
+Connect with me:
+https://www.linkedin.com/in/ziv-bryk-887463a8/
+
+Languages and Tools:
+angular canvasjs chartjs css3 git heroku html5 javascript mongodb mysql nodejs react redux sass typescript vuejs
