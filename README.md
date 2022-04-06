@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I am a Frontend / Full-Stack Web Developer with experience in writing single page applications.
 ### I recently completed the Coding Academy Bootcamp, and looking for Junior position.
 
-### You can view my capabilities here https://zivbryk.github.io/mister-bitcoin-angular/ - a crypto wallet app made using the ###Angular CLI, link to repo: github.com/onTrackit (Angular.js, Typescript, Scss).
+### You can view my capabilities on the [Mr-Bitcoin App](https://zivbryk.github.io/mister-bitcoin-angular/) - a crypto wallet app made using the ###Angular CLI, link to repo: github.com/onTrackit (Angular.js, Typescript, Scss).
 
 ### Formerly a Mechanical R&D Engineer working on project in the field of Aeronautics.
 ### Holds a B.Sc. in Mechanical Engineering (Technion institue of technology).
