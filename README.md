@@ -42,7 +42,7 @@ Keep Learning 🐱‍👤
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zivbryk&show_icons=true&locale=en&layout=compact" alt="zivbryk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zivbryk&show_icons=true&locale=en" alt="zivbryk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zivbryk&show_icons=true&locale=en" alt="zivbryk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zivbryk&" alt="zivbryk" /></p>
 
