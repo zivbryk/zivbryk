@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ziv Bryk</h1>
 <h3 align="left">I am a Frontend / Full-Stack Web Developer with experience in writing single page applications. I recently completed the Coding Academy Bootcamp, and looking for Junior position. </h3>
 
-<h3 align="left">You can view my capabilities on the <a href="https://zivbryk.github.io/mister-bitcoin-angular/">Mr.Bitcoin App</a> - a crypto wallet app made using the Angular CLI, link to repo: <a href="https://github.com/zivbryk/mister-bitcoin-angular">Mr.Bitcoin Repo</a> (Angular.js, Typescript, Scss).</h3>
+<h3 align="left">You can view my capabilities on the <a href="https://zivbryk.github.io/mister-bitcoin-angular/">Mr.Bitcoin App</a> - a crypto wallet app made using the Angular CLI.</h3>
+<h3 align="left">link to repo: <a href="https://github.com/zivbryk/mister-bitcoin-angular">Mr.Bitcoin Repo</a> (Angular.js, Typescript, Scss).</h3>
 
 <h3 align="left">Formerly a Mechanical R&D Engineer working on projects in the field of Aeronautics.Holds a B.Sc. in Mechanical Engineering (Technion institue of technology).</h3>
 
