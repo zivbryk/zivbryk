@@ -2,7 +2,7 @@
 <h3 align="left">I am a Frontend / Full-Stack Web Developer with experience in writing single page applications. I recently completed the Coding Academy Bootcamp, and looking for Junior position. </h3>
 
 <h3 align="left">You can an idea of what I can do by checking my latest apps:
-<a href="https://trellix.herokuapp.com/">Trellix</a> - a trelo clone app. Code: <a href="https://github.com/zivbryk/Trellix">Trellix Repo</a> (React.js, Node.js, MongoDB &Scss).</h3>
+<a href="https://trellix.herokuapp.com/">Trellix</a> - a trelo clone app. Code: <a href="https://github.com/zivbryk/Trellix">Trellix Repo</a> (React.js, Node.js, MongoDB &Scss).
 
 <a href="https://zivbryk.github.io/mister-bitcoin-angular/">Mr.Bitcoin App</a> - a crypto wallet app made using the Angular CLI. Code: <a href="https://github.com/zivbryk/mister-bitcoin-angular">Mr.Bitcoin Repo</a> (Angular.js, Typescript, Scss).</h3>
 
