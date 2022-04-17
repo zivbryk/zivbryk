@@ -1,24 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ziv Bryk</h1>
 <h3 align="left">I am a Frontend / Full-Stack Web Developer with experience in writing single page applications. I recently completed the Coding Academy Bootcamp, and looking for Junior position. </h3>
 
-<h3 align="left">You can view my capabilities on the <a href="https://zivbryk.github.io/mister-bitcoin-angular/">Mr.Bitcoin App</a> - a crypto wallet app made using the Angular CLI. Code: <a href="https://github.com/zivbryk/mister-bitcoin-angular">Mr.Bitcoin Repo</a> (Angular.js, Typescript, Scss).</h3>
+<h3 align="left">You can an idea of what I can do by checking my latest apps:
+<a href="https://trellix.herokuapp.com/">Trellix</a> - a trelo clone app. Code: <a href="https://github.com/zivbryk/Trellix">Trellix Repo</a> (React.js, Node.js, MongoDB &Scss).</h3>
+
+<a href="https://zivbryk.github.io/mister-bitcoin-angular/">Mr.Bitcoin App</a> - a crypto wallet app made using the Angular CLI. Code: <a href="https://github.com/zivbryk/mister-bitcoin-angular">Mr.Bitcoin Repo</a> (Angular.js, Typescript, Scss).</h3>
 
 <h3 align="left">Formerly a Mechanical R&D Engineer working on projects in the field of Aeronautics and holds a B.Sc. in Mechanical Engineering (Technion institue of technology).</h3>
 
 <!--
 **zivbryk/zivbryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 🔭 My Latest Project - a Trello Clone Progressive Web App! 
 
