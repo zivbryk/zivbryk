@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziv Bryk</h1>
-<h3 align="left">I am a Frontend / Full-Stack Web Developer with experience in writing single page applications. I recently completed the Coding Academy Bootcamp, and looking for Junior position. </h3>
+<h3 align="left">I am a Frontend / Full-Stack Web Developer with experience in writing single page applications. Learned to code on my own and completed a Coding Academy Bootcamp </h3>
 
 <h3 align="left">You can an idea of what I can do by checking my latest apps:  <br/>
 📊<a href="https://trellix.herokuapp.com/">Trellix</a> - a trelo clone app. Code: <a href="https://github.com/zivbryk/Trellix">Trellix Repo</a> (React.js, Node.js, MongoDB &Scss).
