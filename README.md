@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziv Bryk</h1>
 <h3 align="left">I am a Frontend / Full-Stack Web Developer with experience in writing single page applications.  </h3>
 
-<h3 align="left">You can an idea of what I can do by checking my latest apps:  <br/>
+<h3 align="left">You can get an idea of what I can do by checking my latest apps:  <br/>
 📊<a href="https://trellix.herokuapp.com/">Trellix</a> - a trelo clone app. Code: <a href="https://github.com/zivbryk/Trellix">Trellix Repo</a> (React.js, Node.js, MongoDB &Scss).
 <br/>
 💸<a href="https://zivbryk.github.io/mister-bitcoin-angular/">Mr.Bitcoin App</a> - a crypto wallet app made using the Angular CLI. Code: <a href="https://github.com/zivbryk/mister-bitcoin-angular">Mr.Bitcoin Repo</a> (Angular.js, Typescript, Scss).</h3>
