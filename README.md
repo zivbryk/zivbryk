@@ -8,7 +8,6 @@
 
 <h3 align="left">Formerly a Mechanical R&D Engineer working on projects in the field of Aeronautics and holds a B.Sc. in Mechanical Engineering (Technion institue of technology).</h3>
 
-<!--
 **zivbryk/zivbryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 My Latest Project - a Trello Clone Progressive Web App! 
@@ -31,7 +30,7 @@ Keep Learning 🐱‍👤
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zivbryk&label=Profile%20views&color=0e75b6&style=flat" alt="zivbryk" /> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zivbryk&show_icons=true&locale=en&layout=compact" alt="zivbryk" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zivbryk&show_icons=true&locale=en&layout=compact" alt="zivbryk" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zivbryk&show_icons=true&locale=en" alt="zivbryk" /></p>
 
