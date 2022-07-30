@@ -8,14 +8,6 @@
 
 <h3 align="left">Formerly a Mechanical R&D Engineer working on projects in the field of Aeronautics and holds a B.Sc. in Mechanical Engineering (Technion institue of technology).</h3>
 
-**zivbryk/zivbryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🔭 My Latest Project - a Trello Clone Progressive Web App! 
-
-🌱 Technologies I've learned and worled with: React, Vue, Angular, TypeScript, Node.js, Redux, WebSockets, MongoDB, Responsive Scss.
-
-👯 I’m looking for Junior - Frontend / Full-Stack Postions
-
 Keep Learning 🐱‍👤
 
 <h3 align="left">Connect with me:</h3>
